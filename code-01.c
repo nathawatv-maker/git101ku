@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    printf("Hello Git.\n");
+    char text[] = "Hello Git";
+    printf("%s", text);
     return 0;
 }
