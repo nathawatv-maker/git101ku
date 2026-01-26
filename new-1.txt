@@ -1,4 +1,4 @@
 // file: new-1.txt
 create file in dirctorty new is git 102 then push to github
 
-add 1 line for test pull that has conflict or not yoyoyooyoy
+add 1 line for test pull that has conflict or not
